@@ -12,4 +12,4 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 
 #Hosting
-https://goofy-poincare-eeaadc.netlify.app
+https://gifted-jones-d11528.netlify.app
